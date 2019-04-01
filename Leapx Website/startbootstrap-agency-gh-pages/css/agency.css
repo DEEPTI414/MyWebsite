@@ -172,6 +172,17 @@ section h3.section-subheading {
   font-family: raleway;
   font-size: 18px;
 }
+/*Learn tab size fix */
+.leapLearn{
+  HEIGHT: 137PX;
+  width: 311px; 
+  
+
+}
+/*Code tab size Fix */
+.leapCode{
+  margin-left: -8px;
+}
 
 .tab-menu ul li.active a, .tab-menu ul li.hover a, .tab-menu ul li.focus a {
   border: 1px solid #c0c0c0;   /*changed for border of nav*/
